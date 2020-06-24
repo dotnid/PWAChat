@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "name": "TAYO",
+  "launch_path": "/index.html",
+  "description": "Chat with friends using Firebase 2.0",
+  "developer": {
+    "name": "TAYO inc.",
+    "url": "https://firebase.google.com"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "TAYO",
+      "description": "Chat with friends using TAYO"
+    }
+  }
+}
